@@ -140,34 +140,40 @@
 	  bottom: 0;
 	}
 
+/*cited from
+https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
+*/
 	.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
+	  padding: 20px;
+	  font-size: 30px;
+	  width: 50px;
+	  text-align: center;
+	  text-decoration: none;
+	  margin: 5px 2px;
+	}
 
-.fa:hover {
-    opacity: 0.7;
-}
+	.fa:hover {
+	  opacity: 0.7;
+	}
 
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
+	.fa-linkedin {
+	  background: #007bb5;
+	  color: white;
+	}
 
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
+	.fa-youtube {
+	  background: #bb0000;
+	  color: white;
+	}
 
-.fa-instagram {
-  background: #125688;
-  color: white;
-}
+	.fa-instagram {
+	  background: #125688;
+	  color: white;
+	}
 
+/*cited from
+https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation3
+*/
 	@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap') repeat scroll 0 0 rgba(0, 0, 0, 0);
 
 	body {
